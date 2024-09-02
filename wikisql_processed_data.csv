@@ -84,7 +84,7 @@ question_ru,question_en,sel,conds,agg
 "На скольких каналах транслировалась премьера сезона, состоявшаяся 11 сентября 2000 года?","The season premiere aired on September 11, 2000 aired on how many networks? ",1,"[[2, 0, 'September 11, 2000']]",3
 "Каков был рейтинг финала сезона, показанного 8 мая 2006 года?","What was the ranking of the season finale aired on May 8, 2006? ",5,"[[3, 0, 'May 8, 2006']]",0
 "какова минимальная численность населения в канаде по данным переписи 2011 года, где местом расположения rcm является ковансвилл",what is the minimum population canada 2011 census with seat of rcm being cowansville,1,"[[4, 0, 'Cowansville']]",2
-"какова площадь земли с местом нахождения rcm, находящейся в granby",what's the land area with seat of rcm being granby,2,"[[4, 0, 'Granby']]",0
+"какова площадь земли с местом нахождения rcm, находящегося в granby",what's the land area with seat of rcm being granby,2,"[[4, 0, 'Granby']]",0
 Какова численность населения округа Мейо с английским названием Карроутейдж?,What is the population for County Mayo with the English Name Carrowteige?,3,"[[0, 0, 'County Mayo'], [1, 0, 'Carrowteige']]",0
 Какое ирландское имя указано среди 62% говорящих на ирландском языке?,What is the Irish name listed with 62% Irish speakers?,2,"[[4, 0, '62%']]",0
 Какова численность населения ирландского имени Letir melláin?,What is the population for the Irish Name Leitir mealláin?,3,"[[2, 0, 'Leitir Mealláin']]",0
@@ -110,7 +110,7 @@ question_ru,question_en,sel,conds,agg
 Все игроки НХЛ являются центральными нападающими «Флориды Пантерз».,NHL players are all centre in Florida panthers.,1,"[[2, 0, 'Centre'], [4, 0, 'Florida Panthers']]",0
 Игрок команды НХЛ «Сан-Хосе Шаркс» является гражданином США.,NHL team player San Jose Sharks is United States nationally.,1,"[[4, 0, 'San Jose Sharks'], [3, 0, 'United States']]",0
 Все игроки имеют позицию Марк Полак.,All players are position mark polak.,2,"[[1, 0, 'Mark Polak']]",0
-Позиция в центре команды НХЛ — все это выборы меньше 243.0,Position in nhl team centre are all smaller pick than 243.0,4,"[[2, 0, 'Centre'], [0, 2, 243.0]]",0
+Позиция в центре команды НХЛ — все выборы меньше 243.0,Position in nhl team centre are all smaller pick than 243.0,4,"[[2, 0, 'Centre'], [0, 2, 243.0]]",0
 Из каких студенческих/юниорских/клубных команд происходят игроки «Сент-Луис Блюз»?,What college/junior/club teams do the players from the St. Louis Blues come from?,5,"[[4, 0, 'St. Louis Blues']]",0
 За какие команды играют игроки ТПС (Финляндия)?,What teams do the players from TPS (Finland) play for?,4,"[[5, 0, 'TPS (Finland)']]",0
 За какую школьную команду играл Даг Нолан?,What high school team did Doug Nolan play for?,5,"[[1, 0, 'Doug Nolan']]",0
@@ -127,12 +127,12 @@ question_ru,question_en,sel,conds,agg
 Какой наименьший выбор для игрока Бретта Линдроса?,"What is the smallest pick for the player, brett lindros?",0,"[[1, 0, 'Brett Lindros']]",2
 Какие позиции занимает студенческая/юниорская/клубная команда «Молот Пермь» (Россия)?,"What positions does the college/junior/club team, molot perm (russia) have?",2,"[[5, 0, 'Molot Perm (Russia)']]",0
 Какая национальность у команды НХЛ «Нью-Йорк Айлендерс»?,The nhl team new york islanders is what nationality?,3,"[[4, 0, 'New York Islanders']]",0
-"Как зовут человека, освобождающего территорию округа Луизиана 1-й?",What is the name of the vacator for district Louisiana 1st?,1,"[[0, 0, 'Louisiana 1st']]",0
+"Как зовут человека, освобождающего территорию в округе Луизиана 1-й?",What is the name of the vacator for district Louisiana 1st?,1,"[[0, 0, 'Louisiana 1st']]",0
 "Что это за понятие, когда кристаллическая структура тетрагональная и формула bi 2 sr 2 cacu 2 o 8",What is the notion when the crystal structure is tetragonal and the formula is bi 2 sr 2 cacu 2 o 8,1,"[[4, 0, 'Tetragonal'], [0, 0, 'Bi 2 Sr 2 CaCu 2 O 8']]",0
 Сколько раз формула tl 2 ba 2 cuo 6?,How many times is the formula tl 2 ba 2 cuo 6?,3,"[[0, 0, 'Tl 2 Ba 2 CuO 6']]",0
 Какова кристаллическая структура формулы yba2cu3o7?,What is the crystal structure for the formula yba 2 cu 3 o 7?,4,"[[0, 0, 'YBa 2 Cu 3 O 7']]",0
 "Каково число для t c (k), если обозначение tl-2212?",What is the number for t c (k) when the notation is tl-2212?,2,"[[1, 0, 'Tl-2212']]",3
-Сколько оценок было сделано в городе Кремона в 2010 году?,How many 2010 estimations have been done in the city of Cremona?,5,"[[1, 0, 'Cremona']]",3
+Сколько оценок за 2010 год было сделано в городе Кремона?,How many 2010 estimations have been done in the city of Cremona?,5,"[[1, 0, 'Cremona']]",3
 "Какова перепись 2001 года в регионе Абруццо, где перепись 1871 года превысила 51092,0?",What's the 2001 census of the region of Abruzzo where the 1871 census is bigger than 51092.0?,4,"[[6, 0, 'Abruzzo'], [2, 1, 51092.0]]",2
 Каковы данные переписи населения города Карпи 1991 года?,What's the 1991 census of the city of Carpi?,3,"[[1, 0, 'Carpi']]",1
 Сколько переписей 2001 года проведено по адресу 13?,How many 2001 censuses are there on number 13?,4,"[[0, 0, 13]]",3
@@ -142,7 +142,7 @@ question_ru,question_en,sel,conds,agg
 В какой команде играет Кит Маккембридж?,What team is Keith Mccambridge on?,5,"[[1, 0, 'Keith McCambridge']]",0
 Сколько национальностей в списке 193?,How many nationalities are the pick 193?,3,"[[0, 0, 193]]",3
 "Кто был преемником, официально вступившим в должность 8 ноября 1978 года?","Who was the succesor that was formally installed on November 8, 1978?",3,"[[4, 0, 'November 8, 1978']]",0
-Сколько песен получили оценку 10 от Гудмана и оценку Тониоли?,How many songs received a 10 from Goodman and were rated by Tonioli?,5,"[[3, 0, '10']]",3
+Сколько песен получили оценку 10 от Гудмана и были оценены Тониоли?,How many songs received a 10 from Goodman and were rated by Tonioli?,5,"[[3, 0, '10']]",3
 "Какую оценку дал Гудман всем песням с безопасными результатами, получившим 7 баллов от Хорвуда и имеющим общую оценку 31?","What score did Goodman give to all songs with safe results, which received a 7 from Horwood and have a total score of 31?",3,"[[6, 0, '31'], [2, 0, '7'], [7, 0, 'Safe']]",0
 "Какую оценку дал Диксон песне «Самба / Молодые сердца бегут свободно», которая заняла второе место?","What score did Dixon give to the song ""samba / young hearts run free"", which was in second place?",4,"[[1, 0, 'Samba / Young Hearts Run Free'], [7, 0, 'Second place']]",0
 "Сколько баллов Гудман дал песне «Самба/Молодые сердца бегут свободно», которая оказалась на втором месте?","How many scores did Goodman give to ""samba / young hearts run free"", which was in second place?",3,"[[7, 0, 'Second place'], [1, 0, 'Samba / Young Hearts Run Free']]",3
@@ -166,7 +166,7 @@ question_ru,question_en,sel,conds,agg
 Какой актер из Сербии был номинирован на лучшую мужскую роль второго плана?,Which actor from Serbia was nominated for best actor in a supporting role?,1,"[[0, 0, 'Best Actor in a Supporting Role'], [4, 0, 'Serbia']]",0
 Из какой страны Всеволод Шиловский?,Vsevolod Shilovskiy is from what country?,4,"[[1, 0, 'Vsevolod Shilovskiy']]",0
 Какие номинации связаны с фильмом «Тоталитарный роман»?,Which nominations are connected to the film Totalitarian Romance?,0,"[[2, 0, 'Totalitarian Romance']]",0
-"Над каким фильмом работал Срджан Драгоевич, который получил номинацию?",Srdjan Dragojevic worked on a film which earned what nomination?,0,"[[3, 0, 'Srdjan Dragojevic']]",0
+"Над каким фильмом работал Срджан Драгоевич, и какую номинацию он получил?",Srdjan Dragojevic worked on a film which earned what nomination?,0,"[[3, 0, 'Srdjan Dragojevic']]",0
 Какие актеры из Украины?,Which actors are from Ukraine?,1,"[[4, 0, 'Ukraine']]",0
 Какой фильм снял Вадим Ильенко?,What was the film that vadim ilyenko directed?,2,"[[3, 0, 'Vadim Ilyenko']]",0
 "Как звали актеров, которыми руководил Вадим Ильенко?",What was the actors name that vadim ilyenko directed?,1,"[[3, 0, 'Vadim Ilyenko']]",0
@@ -193,7 +193,7 @@ question_ru,question_en,sel,conds,agg
 Какой счет в матче с соперницами Гретхен Магерс и Келли Джонс?,What is the score of the match with opponents Gretchen Magers Kelly Jones?,6,"[[5, 0, 'Gretchen Magers Kelly Jones']]",0
 Сколько дней рождения у Эрла Хэнли Бешлина?,How many birthdays does Earl Hanley Beshlin have?,3,"[[2, 0, 'Earl Hanley Beshlin']]",3
 Какая политическая партия имеет день рождения 10 ноября 1880 года?,"Which politican party has a birthday of November 10, 1880",6,"[[3, 0, 'November 10, 1880']]",0
-У какого представителя день рождения 31 января 1866 года?,"Which representative has a birthday of January 31, 1866?",2,"[[3, 0, 'January 31, 1866']]",0
+Какой представитель родился 31 января 1866 года?,"Which representative has a birthday of January 31, 1866?",2,"[[3, 0, 'January 31, 1866']]",0
 Каков показатель W-L в одиночном разряде для игрока по имени Лауринас Григелис?,What is the Singles W-L for the players named  Laurynas Grigelis?,6,"[[0, 0, 'Laurynas Grigelis']]",0
 Каков текущий рейтинг в одиночном разряде у игрока по имени Мантас Бугайлишкис?,What is the Current singles ranking for the player named Mantas Bugailiškis?,1,"[[0, 0, 'Mantas Bugailiškis']]",0
 Сколько человек играли роль миссис Дарлинг в мюзикле «Бродвей» 1999 года?,How many playerd Mrs. Darling in the 1999 Broadway?,8,"[[0, 0, 'Mrs. Darling']]",3
@@ -213,8 +213,8 @@ question_ru,question_en,sel,conds,agg
 Сколько оригинальных названий было у фильма «Брак по-итальянски»?,How many original titles did Marriage Italian-Style have? ,2,"[[1, 0, 'Marriage Italian-Style']]",3
 В каком году был подан фильм с оригинальным названием La Leggenda del Santo Bevitore?,What year was a movie with the original title La Leggenda del Santo Bevitore submitted?,0,"[[2, 0, 'La leggenda del santo bevitore']]",0
 что это за лагерь с предполагаемым числом смертей в 600 000 человек,"what's the camp with estimated deaths of 600,000",0,"[[1, 0, '600,000']]",0
-каков период работы лагеря Саймиште,what's the operational period with camp  sajmište,2,"[[0, 0, 'Sajmište']]",0
-каково предполагаемое количество смертей в период операции с 17 марта 1942 года по конец июня 1943 года?,what's the estimated deaths with operational period of 17 march 1942 – end of june 1943,1,"[[2, 0, '17 March 1942 – end of June 1943']]",0
+каков период работы в лагере саймиште,what's the operational period with camp  sajmište,2,"[[0, 0, 'Sajmište']]",0
+каково предполагаемое количество смертей в период операции с 17 марта 1942 г. по конец июня 1943 г.,what's the estimated deaths with operational period of 17 march 1942 – end of june 1943,1,"[[2, 0, '17 March 1942 – end of June 1943']]",0
 какова текущая страна расположения с оперативным периодом с лета 1941 года по 28 июня 1944 года,what's the current country of location with operational period  of summer of 1941 to 28 june 1944,4,"[[2, 0, 'Summer of 1941 to 28 June 1944']]",0
 какова оккупированная территория с предполагаемым числом погибших в 600 000 человек,"what's the occupied territory with estimated deaths of 600,000",3,"[[1, 0, '600,000']]",0
 какова оккупированная территория с оперативным периодом май 1940 г. – январь 1945 г.,what's the occupied territory with operational period of may 1940 – january 1945,3,"[[2, 0, 'May 1940 – January 1945']]",0
@@ -251,9 +251,9 @@ question_ru,question_en,sel,conds,agg
 Какой человек находится в тронто/бродвее и имеет тур по Великобритании n/a,Which person is in the tronto/broadway and has a uk tour of n/a,3,"[[5, 0, 'n/a']]",0
 Сколько человек играют Фрэнка в Лондоне?,How many people play Frank in London?,2,"[[0, 0, 'Frank']]",3
 Кто был в классе ААА в 2000-01 учебном году?,Who was Class AAA during the school year of 2000-01?,3,"[[0, 0, '2000-01']]",0
-"Кто был в классе AAA в том же году, когда классом A были (ничья) Apple Springs/Texline?",Who was Class AAA during the same year that Class A was (tie) Apple Springs/Texline?,3,"[[1, 0, '(tie) Apple Springs/Texline']]",0
+"Кто был в классе AAA в том же году, когда класс A был (ничья) Apple Springs/Texline?",Who was Class AAA during the same year that Class A was (tie) Apple Springs/Texline?,3,"[[1, 0, '(tie) Apple Springs/Texline']]",0
 Кто был в классе AAAAA в 1995-96 учебном году?,Who was Class AAAAA during the school year of 1995-96?,5,"[[0, 0, '1995-96']]",0
-"Кто был в классе AAA в тот же год, когда класс AAAAA был в Браунсвилле Пейс?",Who was Class AAA during the same year that Class AAAAA was Brownsville Pace?,3,"[[5, 0, 'Brownsville Pace']]",0
+"Кто был в классе AAA в тот же год, когда класс AAAAA был в Brownsville Pace?",Who was Class AAA during the same year that Class AAAAA was Brownsville Pace?,3,"[[5, 0, 'Brownsville Pace']]",0
 "Каково было общее количество объектов класса AAA в том же году, когда классом AAA был White Oak?",What was the total number of Class AAA during the same year that Class AAA was White Oak?,2,"[[3, 0, 'White Oak']]",3
 "Сколько рекордов зафиксировано в пятницу, 25 мая?","How many records are listed on Friday, May 25?",5,"[[1, 0, 'Friday, May 25']]",3
 "Сколько соперников было сыграно в субботу, 9 июня?","How many opponents were played on Saturday, June 9?",3,"[[1, 0, 'Saturday, June 9']]",3
@@ -265,9 +265,9 @@ question_ru,question_en,sel,conds,agg
 "Как называется трек, который длится 5:30?",What is the name of the track that lasts 5:30?,3,"[[8, 0, '5:30']]",0
 "Как называется альбом, в котором есть трек Sweetness 甜甜的 (tián tián de)?",What is the album namethat has the track title Sweetness 甜甜的 (tián tián de)?,1,"[[3, 0, 'Sweetness 甜甜的 (Tián tián de)']]",0
 "Какова продолжительность песни, в которой основным инструментом является фортепиано, а дата — 2004-02-03?",What is the duration of the song where the major instrument is the piano and the date is 2004-02-03?,8,"[[6, 0, 'Piano'], [0, 0, '2004-02-03']]",0
-"Каково общее количество авторов текстов песен, тема которых — романтика, а сама песня длится 3:50?",What is the total number of lyricist where the lyrics theme is romance and the song lasts 3:50?,4,"[[7, 0, 'Romance'], [8, 0, '3:50']]",3
+"Каково общее количество авторов текстов песен, тематика которых — романтика, а сама песня длится 3:50?",What is the total number of lyricist where the lyrics theme is romance and the song lasts 3:50?,4,"[[7, 0, 'Romance'], [8, 0, '3:50']]",3
 "Какой основной инструмент в песне, которая длится 4:32?",What is the major instrument of the song that lasts 4:32? ,6,"[[8, 0, '4:32']]",0
-"Каково общее количество музыкальных жанров/стилей, в текстах которых присутствует детективная история?",What is the total number of music genre/style in which the lyrics are a detective story?,5,"[[7, 0, 'Detective story']]",3
+"Каково общее количество музыкальных жанров/стилей, в текстах которых содержится детективная история?",What is the total number of music genre/style in which the lyrics are a detective story?,5,"[[7, 0, 'Detective story']]",3
 Что такое плей-офф в лиге USL Pro Select?,What is the playoffs for the usl pro select league?,4,"[[2, 0, 'USL Pro Select League']]",0
 Каков номер дивизиона в 1-м туре?,What is the number of the division for the 1st round?,1,"[[5, 0, '1st Round']]",3
 Какая команда выступала в серии Formula Renault 2.0 nec?,What was the team where series is formula renault 2.0 nec?,2,"[[1, 0, 'Formula Renault 2.0 NEC']]",0
@@ -285,7 +285,7 @@ question_ru,question_en,sel,conds,agg
 Сколько названий имеют число 11?,How many titles have the number 11,2,"[[1, 0, 11]]",3
 У скольких из них миссис Брайер была злодейкой?,How many have Mrs. briar as a villain,0,"[[7, 0, 'Mrs. Briar']]",3
 сколько из них имеют цифру 8,how many have the number 8,0,"[[1, 0, 8]]",3
-Сколько из них имеют название «Рассказ о сдаваемой комнате»?,"How many have the title ""the tale of the room for rent""",1,"[[2, 0, '""The Tale of the Room for Rent""']]",3
+Сколько из них имеют название «Рассказ о сдаче комнаты»?,"How many have the title ""the tale of the room for rent""",1,"[[2, 0, '""The Tale of the Room for Rent""']]",3
 "Как называется эпизод, рассказанный Кики и снятый Уиллом Диксоном?",What is the name of the episode told by Kiki and directed by Will Dixon?,2,"[[6, 0, 'Kiki'], [3, 0, 'Will Dixon']]",0
 Кто является рассказчиком в эпизоде ​​под названием «История о зазубренном знаке»?,"Who is the storyteller in the episode called ""The Tale of the Jagged Sign""?",6,"[[2, 0, '""The Tale of the Jagged Sign""']]",0
 Кто написал Эпизод №3?,Who wrote Episode #3?,4,"[[1, 0, 3]]",0
@@ -320,7 +320,7 @@ question_ru,question_en,sel,conds,agg
 Кто основные ведущие La Granja?,What is main presenters of La Granja?,4,"[[1, 0, 'La Granja']]",0
 Какой главный представитель Болгарии?,What is the main presenter of bulgaria?,4,"[[0, 0, 'Bulgaria']]",0
 Сколько победителей фармы?,How many winners are there of farma?,3,"[[1, 0, 'Farma']]",3
-Какое наибольшее количество голов в кубке было забито в сезоне 1911-12?,What is the most cup goals for seasson 1911-12?,5,"[[0, 0, '1911-12']]",1
+Какое наибольшее количество голов забито в кубке в сезоне 1911-12?,What is the most cup goals for seasson 1911-12?,5,"[[0, 0, '1911-12']]",1
 Каковы заявки лиги на сезон 1923-24?,What is the league apps for season 1923-24?,2,"[[0, 0, '1923-24']]",0
 Какой состав команды на сезон 1911-12?,What is the team for season 1911-12?,1,"[[0, 0, '1911-12']]",0
 какова минимальная посещаемость при оценке 10.16 (76) – 9.22 (76),what's the minimum attendance with score  10.16 (76) – 9.22 (76),6,"[[3, 0, '10.16 (76) – 9.22 (76)']]",2
@@ -354,7 +354,7 @@ question_ru,question_en,sel,conds,agg
 "Какова дата назначения, когда на смену придет Рой Ходжсон?",What is the date of appointment when replaced by is roy hodgson?,5,"[[4, 0, 'Roy Hodgson']]",0
 "Кто был заменен, когда позиция в таблице была предсезонной?",Who replaced when position in table is pre-season?,4,"[[6, 0, 'Pre-season']]",0
 "Сколько игр в постсезонных играх имели показатель результативности 813,5?",How many games had a score value of 813.5 in post-season play?,4,"[[2, 0, '813.5']]",3
-"Была ли хоть одна команда, набравшая в играх 860,5 очков?",Did any team score games that totaled up to 860.5?,4,"[[2, 0, '860.5']]",0
+"Была ли хоть одна команда, которая набрала в играх 860,5 очков?",Did any team score games that totaled up to 860.5?,4,"[[2, 0, '860.5']]",0
 "С каким счетом закончилась игра, когда команда достигла результата 6-9?",What was the score of the game when the team reached a record of 6-9?,3,"[[8, 0, '6-9']]",0
 К какому типу учреждений относится университет Point Park?,What type institution is point park university,4,"[[0, 0, 'Point Park University']]",0
 "Сколько учреждений расположено в Уилморе, Кентукки и частных","How many institutions are located in wilmore, kentucky and private",3,"[[4, 0, 'Private'], [2, 0, 'Wilmore, Kentucky']]",1
@@ -369,15 +369,15 @@ question_ru,question_en,sel,conds,agg
 "Каково было давление циклона во время шторма, при котором скорость смерти была равна 95 км/ч (60 миль/ч)?",What was the cyclone's pressure in the storm that death was equal to 95km/h (60mph)?,4,"[[7, 0, '95km/h (60mph)']]",0
 "В какие даты происходила активность шторма, скорость которого составляла 185 км/ч (115 миль в час), и погибло 10 человек?",What were the active dates for the storm that had 185km/h (115mph) deaths?,1,"[[7, 0, '185km/h (115mph)']]",0
 "Каков был ущерб (в долларах США) от циклонов, давление которых составило 1003 гПа (29,62 дюйма рт. ст.)?",What was the damage (usd) from the cyclones that measured 1003hPa (29.62inHg) pressure?,6,"[[4, 0, '1003hPa (29.62inHg)']]",0
-"каков средний балл, где наивысший балл 120", what's the average where high score is 120,6,"[[5, 0, 120]]",0
+"каков средний балл, где наивысший балл — 120", what's the average where high score is 120,6,"[[5, 0, 120]]",0
 "какой игрок, где 50 — это 2, а n/o — это 0", what's the player where 50 is 2 and n/o is 0,0,"[[8, 0, 2], [3, 0, 0]]",0
-"что такое игрок, где inns 21", what's the player where inns is 21,0,"[[2, 0, 21]]",0
+что такое игрок где inns 21, what's the player where inns is 21,0,"[[2, 0, 21]]",0
 "На каких всеобщих выборах было большинство по принципу «парламент» и 44,75% голосов избирателей?",Which general election had a pq majority and a 44.75% of the popular vote?,0,"[[4, 0, 'PQ majority'], [3, 0, '44.75%']]",0
 "Какое наименьшее число кандидатов баллотировалось, когда было выиграно 80 мест?",What is the least number of candidates running were there when 80 seats were won?,1,"[[2, 0, 80]]",2
 Сколько мест было выиграно на выборах 125 кандидатами?,How many seats were won in the election with 125 candidates?,2,"[[1, 0, 125]]",3
 Сколько там недель?,How many weeks are there?,0,[],1
 Сколько человек посетило игру против «Индианаполис Колтс»?,How many people attended the game against the indianapolis colts?,6,"[[2, 0, 'Indianapolis Colts']]",3
-Каковы были все рекорды 16 декабря 1985 года?,"On december 16, 1985, all the records were what?",5,"[[1, 0, 'December 16, 1985']]",0
+Какими были все рекорды 16 декабря 1985 года?,"On december 16, 1985, all the records were what?",5,"[[1, 0, 'December 16, 1985']]",0
 Сколько результатов для рекорда 0-4?,How many results are there for the 0-4 record?,3,"[[5, 0, '0-4']]",3
 Сколько недель включает в себя дату 11 октября 1969 года?,"How many weeks are there that include the date October 11, 1969.",0,"[[1, 0, 'October 11, 1969']]",3
 Сколько недель включает в себя дату 9 ноября 1969 года?,"How many weeks are there that include the date November 9, 1969.",0,"[[1, 0, 'November 9, 1969']]",3
@@ -394,14 +394,14 @@ question_ru,question_en,sel,conds,agg
 "что такое команда nfl, где игроком является тейн гаш", what is the nfl team where player is thane gash,1,"[[2, 0, 'Thane Gash']]",0
 "каков максимальный выбор #, где игроком является Энтони Блейлок",what is the maximum pick # where player is anthony blaylock,0,"[[2, 0, 'Anthony Blaylock']]",1
 "что такое команда nfl, где игроком является клиффорд чарльтон", what's the nfl team where player is clifford charlton,1,"[[2, 0, 'Clifford Charlton']]",0
-"какова позиция, где игроком является энтони блейлок", what's the position where player is anthony blaylock,3,"[[2, 0, 'Anthony Blaylock']]",0
+"какова позиция, где игроком является Энтони Блейлок", what's the position where player is anthony blaylock,3,"[[2, 0, 'Anthony Blaylock']]",0
 "какой минимальный номер выбора, где позиция — защитный тэкл",what is the minimum pick # where position is defensive tackle,0,"[[3, 0, 'Defensive Tackle']]",2
 "В какой провинции плотность населения составляет 971,4?",Which province has a density of 971.4?,0,"[[3, 0, '971.4']]",0
 Каков ВВП на душу населения во Фрисландии?,What is Friesland's gdp per capita?,5,"[[0, 0, 'Friesland']]",2
 "Какова площадь места, плотность населения которого составляет 331,4?",What is the area of the place that has a population density of 331.4?,2,"[[3, 0, '331.4']]",1
 ВВП какой провинции составляет 38 355 миллионов евро?,Which province has a gdp of 38355€  million euros?,0,"[[4, 0, 38355]]",0
 "Какова приблизительная численность населения в месте, ВВП которого составляет 18 496 миллионов евро?",What is the population estimate for the place that gad a 18496€  million euro gdp?,1,"[[4, 0, 18496]]",0
-"Как называется фильм, если изначально дата выхода в эфир — 15 мая 2008 года?","What is the title when original air date is may15,2008?",2,"[[6, 0, 'May15,2008']]",0
+"Как называется сериал, если изначально дата выхода в эфир — 15 мая 2008 года?","What is the title when original air date is may15,2008?",2,"[[6, 0, 'May15,2008']]",0
 Какое самое большое количество за сезон?,What is the highest no. in season?,1,[],1
 "Кто снял серию, в которой количество зрителей в США (млн) составило 12,90?",Who directed the episode where u.s. viewers (million) is 12.90?,3,"[[7, 0, '12.90']]",0
 "Сколько серий вышло в эфир в Регионе 2, начиная с 26 мая 2008 года?","How many episodes aired in Region 2 beginning May 26, 2008?",1,"[[3, 0, 'May 26, 2008']]",2
@@ -428,7 +428,7 @@ question_ru,question_en,sel,conds,agg
 Сколько серий назывались «Кризис идентичности»?,"How many episodes were titled ""identity crisis""?",3,"[[2, 0, '""Identity Crisis""']]",3
 Кто будет проходить круг за кругом в 2011 году?,Who does the lap-by-lap in 2011?,4,"[[0, 0, 2011]]",0
 На каком канале Марти Рид является ведущим и комментатором трансляций?,Which network has Marty Reid as host and lap-by-lap broadcaster?,1,"[[4, 0, 'Marty Reid'], [2, 0, 'Marty Reid']]",0
-"Сколько предгоночных анализов проводится, когда Аллен Бествик проводит круг за кругом?",How many pre-race analysis occur when Allen Bestwick does the lap-by-lap?,3,"[[4, 0, 'Allen Bestwick']]",3
+"Сколько раз Аллен Бествик проводил предгоночный анализ, когда проводил круг за кругом?",How many pre-race analysis occur when Allen Bestwick does the lap-by-lap?,3,"[[4, 0, 'Allen Bestwick']]",3
 Какой самый большой номер сезона у эпизода в сериале?,What's the highest season number of an episode in the series?,1,[],1
 Когда впервые вышел в эфир эпизод под названием «Lucky Strike»?,"When did the episode titled ""Lucky Strike"" air for the first time?",5,"[[2, 0, '""Lucky Strike""']]",0
 Кто был автором эпизода под названием «One Hit Wonder»?,"Who was the writer of the episode titled ""One Hit Wonder""?",4,"[[2, 0, '""One Hit Wonder""']]",0
@@ -491,7 +491,7 @@ question_ru,question_en,sel,conds,agg
 Какой самый ранний выбор указан в таблице?,What is the earliest pick listed in the table.,0,[],2
 Какой номер серии имел производственный код e4423?,What episode number had production code e4423?,1,"[[6, 0, 'E4423']]",1
 "Какую последнюю серию сезона посмотрели 14,37 миллионов зрителей в США?",What's the latest episode in a season where the U.S. viewers totaled 14.37 million?,1,"[[7, 0, '14.37']]",1
-Кто снял серию «Побег»?,"Who directed the episode ""Escape""?",3,"[[2, 0, '""Escape""']]",0
+Кто снял эпизод «Побег»?,"Who directed the episode ""Escape""?",3,"[[2, 0, '""Escape""']]",0
 Сколько сезонов будет в финале сезона 26 мая 2010 года?,"How many seasons is the season finale on May 26, 2010?",0,"[[4, 0, 'May 26, 2010']]",3
 Премьера каких серий сезона приходится на 23 сентября 2009 года?,"What episodes are there where the season premier is September 23, 2009?",1,"[[3, 0, 'September 23, 2009']]",0
 Каков финал 4-го сезона?,What is the season finale for season 4?,4,"[[0, 0, 4]]",0
@@ -535,7 +535,7 @@ question_ru,question_en,sel,conds,agg
 Какой номер эпизода с производственным кодом 2395118?,What's the number of the episode with production code 2395118?,1,"[[6, 0, '2395118']]",0
 Кто был сценаристом эпизода с производственным кодом 2395096?,Who was the writer for the episode with production code 2395096?,4,"[[6, 0, '2395096']]",0
 "Какое поколение спектрографов с наибольшей вероятностью обнаружит планету с лучевой скоростью 0,089 м/с?",What generation of spectrograph is most likely to detect a planet with a radial velocity of 0.089 m/s?,5,"[[4, 0, '0.089']]",0
-"Каков орбитальный период планеты с большой полуосью 5,20 а.е.?",How long is the orbital period for the planet that has a semimajor axis of 5.20 au?,3,"[[2, 0, '5.20']]",0
+"Каков орбитальный период планеты, большая полуось которой составляет 5,20 а.е.?",How long is the orbital period for the planet that has a semimajor axis of 5.20 au?,3,"[[2, 0, '5.20']]",0
 С помощью какого поколения спектрографов обнаружен Юпитер?,What generation of spectrograph is Jupiter detected by?,5,"[[0, 0, 'Jupiter']]",0
 "Орбитальный период какой планеты составляет 11,86 лет?",Which planet has an orbital period of 11.86 years?,0,"[[3, 0, '11.86 years']]",0
 кто руководил производством код 2398204,who directed the production code 2398204,3,"[[6, 0, '2398204']]",0
@@ -559,13 +559,13 @@ question_ru,question_en,sel,conds,agg
 Какие игроки имеют номер выбора 27?,Which players have a pick number of 27?,2,"[[0, 0, 27]]",0
 Сколько раз выбирались игроки по имени Бретт Ральф?,How many times were players named brett ralph were selected?,0,"[[2, 0, 'Brett Ralph']]",3
 За какие школы играл Ленард Семаджюст?,What schools did lenard semajuste play for?,4,"[[2, 0, 'Lenard Semajuste']]",0
-Какой самый высокий номер в составе команды Saskatchewan Roughriders?,What is the highest selection number for the saskatchewan roughriders team?,0,"[[1, 0, 'Saskatchewan Roughriders']]",1
+Какой самый высокий номер в команде Saskatchewan Roughriders?,What is the highest selection number for the saskatchewan roughriders team?,0,"[[1, 0, 'Saskatchewan Roughriders']]",1
 Сколько игроков fb было выбрано?,How many fb players were drafted?,0,"[[3, 0, 'FB']]",3
 Сколько игроков играло за школу штата Адамс?,How many players played for adams state school?,2,"[[4, 0, 'Adams State']]",3
 "Какие команды набирали игроков, выступавших за школу Нортвуда?",What teams drafted players that played for northwood school?,1,"[[4, 0, 'Northwood']]",0
 В каком колледже учился Крейг Циммер?,What college did Craig Zimmer go to?,4,"[[2, 0, 'Craig Zimmer']]",0
 Какой номер выберет Реджина?,What is the pick number of regina?,0,"[[4, 0, 'Regina']]",0
-Какой игрок является игроком команды LB и CFL - Saskatchewan Roughriders?,What is the player who is lb and cfl team is saskatchewan roughriders?,2,"[[3, 0, 'LB'], [1, 0, 'Saskatchewan Roughriders']]",0
+Какой игрок играет в команде LB и CFL? Это Saskatchewan Roughriders?,What is the player who is lb and cfl team is saskatchewan roughriders?,2,"[[3, 0, 'LB'], [1, 0, 'Saskatchewan Roughriders']]",0
 В какой команде CFL есть позиция OL?,What is the cfl team that has a position of ol?,1,"[[3, 0, 'OL']]",0
 "Каков номер позиции, где номер выбора равен 43?",What is the number of position where the pick number is 43?,3,"[[0, 0, 43]]",3
 Что такое команда CFL с Райаном Фолком?,What is the cfl team with ryan folk?,1,"[[2, 0, 'Ryan Folk']]",0
@@ -641,7 +641,7 @@ question_ru,question_en,sel,conds,agg
 "Какие каналы имеют станции, присоединившиеся в 2002 году?",What channels have stations that were affiliated in 2002?,2,"[[3, 0, '2002']]",0
 На каком рынке работает KTFK-DT?,What market is KTFK-DT in?,0,"[[1, 0, 'KTFK-DT']]",0
 "какой двигатель, где производительность 0–100 км/ч: 10,5 с, vmax км/ч (миль/ч)"," what's the engine where performance is 0–100km/h: 10.5s, vmax km/h (mph)",1,"[[7, 0, '0–100km/h: 10.5s, VMax km/h (mph)']]",0
-"что такое турбо, где настройка 2.0 20v", what's the turbo where trim is 2.0 20v,2,"[[0, 0, '2.0 20v']]",0
+"что такое турбо, где трим 2.0 20v", what's the turbo where trim is 2.0 20v,2,"[[0, 0, '2.0 20v']]",0
 "какой крутящий момент, где производительность 0–100 км/ч: 7,5 с авто, vmax: км/ч (миль/ч)"," what's the torque where performance is 0–100km/h: 7.5s auto, vmax: km/h (mph)",5,"[[7, 0, '0–100km/h: 7.5s auto, VMax: km/h (mph)']]",0
 какая трансмиссия где турбо да (mitsubishi td04-16t ), what's the transmission where turbo is yes (mitsubishi td04-16t ),6,"[[2, 0, 'Yes (Mitsubishi TD04-16t )']]",0
 "какова подача топлива, где мощность составляет л.с. (кВт) при 6500 об/мин", what's the fuel delivery where power is hp (kw) @6500 rpm,3,"[[4, 0, 'hp (kW) @6500 rpm']]",0
@@ -682,7 +682,7 @@ question_ru,question_en,sel,conds,agg
 Какая команда играет на стадионе «Палмерстон Парк»?,What team plays at Palmerston Park?,0,"[[1, 0, 'Palmerston Park']]",0
 Какая самая низкая посещаемость зафиксирована в Каппилоу?,What is the lowest attandance recorded at Cappielow?,4,"[[1, 0, 'Cappielow']]",2
 Какова максимальная посещаемость матча с участием Сент-Джонстона?,What is the highest attendance at a game played by St. Johnstone?,3,"[[0, 0, 'St. Johnstone']]",1
-Какова максимальная посещаемость матча Hamilton Academical?,What is the highest attandence at a Hamilton Academical game?,3,"[[0, 0, 'Hamilton Academical']]",2
+Какова максимальная посещаемость игр Hamilton Academical?,What is the highest attandence at a Hamilton Academical game?,3,"[[0, 0, 'Hamilton Academical']]",2
 "кто чемпион, где полуфиналист №2 — это na, а место проведения — morrisville, NC"," who is the champion where semi-finalist #2 is na and location is morrisville, nc",1,"[[6, 0, 'NA'], [4, 0, 'Morrisville, NC']]",0
 "какой счет, где год 2007", what's the score where year is 2007,2,"[[0, 0, '2007']]",0
 "каково общее количество полуфиналистов №2, где второе место занимает Восточная Каролина",what is the total number of semi-finalist #2 where runner-up is east carolina,6,"[[3, 0, 'East Carolina']]",3
@@ -744,7 +744,7 @@ question_ru,question_en,sel,conds,agg
 "КАКОВ ОБЪЕМ ВЫБРОСОВ УГЛЕКИСЛОГО ГАЗА В 2006 ГОДУ В СТРАНЕ, ВЫБРОСЫ CO2 В КОТОРОЙ (ТОННЫ НА ЧЕЛОВЕКА) ДОСТИГЛИ 1,4 В 2007 ГОДУ?",WHAT WAS THE AMOUNT OF CARBON DIOXIDE EMISSIONS  IN 2006 IN THE COUNTRY WHOSE  CO2 EMISSIONS (TONS PER PERSON)  REACHED 1.4 IN 2OO7?,1,"[[4, 0, '1.4']]",0
 СКОЛЬКО ТОНН ВЫБРОСОВ CO2 ПРОИЗВЕЛА РОССИЯ В 2006 ГОДУ?,HOW MANY TONS OF CO2 EMISSIONS DID RUSSIA PRODUCE IN 2006?,1,"[[0, 0, 'Russia']]",1
 КАКУЮ ДОЛЮ ОБЩИХ ВЫБРОСОВ В МИРЕ ПРОИЗВЕЛА ИНДИЯ?,WHAT PERCENTAGE OF GLOBAL TOTAL EMISSIONS DID INDIA PRODUCE?,2,"[[0, 0, 'India']]",0
-"СКОЛЬКО СОСТАВЛЯЕТ ПРОЦЕНТ ОТ ОБЩЕГО ОБЪЕМА ВЫБРОСОВ В СТРАНЕ, КОТОРАЯ ПРОИЗВЕЛА 4,9 ТОННЫ НА ЧЕЛОВЕКА В 2007 ГОДУ?",HOW MUCH IS THE PERCENTAGE OF GLOBAL TOTAL EMISSIONS IN THE COUNTRY THAT PRODUCED 4.9 TONS PER PERSON IN 2007?,2,"[[4, 0, '4.9']]",0
+"СКОЛЬКО СОСТАВЛЯЕТ ПРОЦЕНТ ОТ ОБЩЕГО ОБЪЕМА ВЫБРОСОВ В МИРЕ В СТРАНЕ, ПРОИЗВЕДЕННОЙ В 2007 ГОДУ В СООТВЕТСТВИИ С 4,9 ТОННАМИ НА ЧЕЛОВЕКА?",HOW MUCH IS THE PERCENTAGE OF GLOBAL TOTAL EMISSIONS IN THE COUNTRY THAT PRODUCED 4.9 TONS PER PERSON IN 2007?,2,"[[4, 0, '4.9']]",0
 КАКОВ СРЕДНИЙ УРОВЕНЬ ВЫБРОСОВ НА КМ2 В ИНДИИ?,WHAT WAS THE AVERAGE EMISSION PER KM 2 IN INDIA?,3,"[[0, 0, 'India']]",1
 "Какой порядковый номер имел выпуск, вышедший в эфир 26 октября 2007 года?","What is the rank number that aired october 26, 2007?",9,"[[2, 0, 'October 26, 2007']]",0
 "Каков рейтинг при зрительской аудитории 5,96 млн. человек?",What is the number of rank with the viewership of 5.96 million?,9,"[[8, 0, '5.96']]",3
@@ -752,8 +752,8 @@ question_ru,question_en,sel,conds,agg
 "Сколько платиновых очков было присуждено, если было присуждено 6 золотых очков?",How many platinum points were awarded when 6 gold points were awarded?,1,"[[2, 0, 6]]",1
 Каков был диапазон итоговых позиций для 15 присужденных платиновых очков?,What was the range of finishing position for 15 awarded platinum points?,0,"[[1, 0, 15]]",0
 Сколько платиновых очков было присуждено за 5-е место?,How many platinum points were awarded for 5th place?,1,"[[0, 0, '5th']]",1
-Сколько платиновых очков было присуждено при присуждении 70 серебряных очков?,How many platinum points were awarded when 70 silver points were awarded?,1,"[[3, 0, 70]]",0
-"Сколько платиновых очков было присуждено, когда было присуждено 9 золотых очков?",How many platinum points were awarded when 9 gold points were awarded?,1,"[[2, 0, 9]]",0
+Сколько платиновых очков было начислено при начислении 70 серебряных очков?,How many platinum points were awarded when 70 silver points were awarded?,1,"[[3, 0, 70]]",0
+"Сколько платиновых очков было присуждено, если было присуждено 9 золотых очков?",How many platinum points were awarded when 9 gold points were awarded?,1,"[[2, 0, 9]]",0
 "Какой рейтинг у эпизода, который посмотрели 2,65 миллиона человек?",How did the episode rank that had 2.65 million viewers?,8,"[[7, 0, '2.65']]",0
 "Какова была доля первого эпизода, занявшего 85-е место?",What was the share for the first episode that ranked 85?,5,"[[8, 0, '85']]",2
 В каком временном интервале транслировался эпизод № 15?,Which timeslot did episode no. 15 hold?,3,"[[0, 0, 15]]",0
@@ -765,7 +765,7 @@ question_ru,question_en,sel,conds,agg
 "что такое экстравертированный, ориентированный на отношения, где экстравертированный, ориентированный на задачу директор"," what's the extroverted, relationship-oriented where extroverted, task-oriented is director",6,"[[5, 0, 'Director']]",0
 "что такое экстравертный, ориентированный на отношения, где умеренный — интровертный сангвиник"," what's the extroverted, relationship-oriented where moderate is introverted sanguine",6,"[[8, 0, 'Introverted Sanguine']]",0
 что такое основатель где умеренный это эфир, what's the founder where moderate is ether,1,"[[8, 0, 'ether']]",0
-"что такое экстраверт, ориентированный на отношения, где дата около 1928 года"," what's the extroverted, relationship-oriented where date is c. 1928",6,"[[0, 0, 'c. 1928']]",0
+"что такое экстраверт, ориентированный на отношения, где дата ок. 1928"," what's the extroverted, relationship-oriented where date is c. 1928",6,"[[0, 0, 'c. 1928']]",0
 "кто основатель, где дата – ок. 1900 год", who is the founder where date is c. 1900,1,"[[0, 0, 'c. 1900']]",0
 "какова шкала ориентации на людей и задачи, где экстравертный, ориентированный на отношения тип команды"," what's the people-task orientation scale where extroverted, relationship-oriented is team type",3,"[[6, 0, 'Team Type']]",0
 "Какая команда отбивает, если ее результат равен 276?",What is the batting team where the runs are 276?,3,"[[1, 0, '276']]",0
@@ -786,7 +786,7 @@ question_ru,question_en,sel,conds,agg
 что все открытые 1-й viii с u15 6-й iv являются bgs,what are all the open 1st viii with u15 6th iv being bgs,1,"[[12, 0, 'BGS']]",0
 что все u16 2nd viii с u15 3rd iv являются bbc,what are all the u16 2nd viii with u15 3rd iv being bbc,5,"[[9, 0, 'BBC']]",0
 что все открытые 1-й viii с u15 4-й iv являются gt,what are all the open 1st viii with u15 4th iv being gt,1,"[[10, 0, 'GT']]",0
-"сколько членов экипажа было в U15 3rd IV, которые были BGS, и U15 1st IV, которые были ACGS, и Open 1st VIII, которые были ACGS",how many crew had u15 3rd iv being bgs and u15 1st iv being acgs and open 1st viii being acgs,0,"[[9, 0, 'BGS'], [7, 0, 'ACGS'], [1, 0, 'ACGS']]",3
+"сколько членов экипажа было в U15 3rd IV, которые были BGS, и в U15 1st IV, которые были ACGS, и в Open 1st VIII, которые были ACGS",how many crew had u15 3rd iv being bgs and u15 1st iv being acgs and open 1st viii being acgs,0,"[[9, 0, 'BGS'], [7, 0, 'ACGS'], [1, 0, 'ACGS']]",3
 что все u15 3rd iv с u15 4th iv это bbc,what are all the u15 3rd iv with u15 4th iv being bbc,9,"[[10, 0, 'BBC']]",0
 сколько открытых 2-х viii было u15 3-х iv будучи gt,how many open 2nd viii had u15 3rd iv being gt,2,"[[9, 0, 'GT']]",3
 В скольких школах обучается 850 человек?,How many schools have an enrollment of 850?,3,"[[2, 0, 850]]",3
@@ -862,10 +862,10 @@ question_ru,question_en,sel,conds,agg
 "кто является главным финалистом, где баллы 11,11 (77) – 10,8 (68)", who is the grand finalist where scores is 11.11 (77) – 10.8 (68),2,"[[3, 0, '11.11 (77) – 10.8 (68)']]",0
 "кто является главным финалистом, где баллы составляют 8,9 (57) – 7,12 (54)", who is the grand finalist where scores is 8.9 (57) – 7.12 (54),2,"[[3, 0, '8.9 (57) – 7.12 (54)']]",0
 "Какова была толпа, когда счет был 10,12 (72) – 8,11 (59)?",what was the crowd when the scores are 10.12 (72) – 8.11 (59)?,5,"[[3, 0, '10.12 (72) – 8.11 (59)']]",1
-"В каком месте матч прошел со счетом 15,13 (103) – 8,4 (52)?",what is the venue where the scores are 15.13 (103) – 8.4 (52)?,4,"[[3, 0, '15.13 (103) – 8.4 (52)']]",0
+"В каком месте счет 15,13 (103) – 8,4 (52)?",what is the venue where the scores are 15.13 (103) – 8.4 (52)?,4,"[[3, 0, '15.13 (103) – 8.4 (52)']]",0
 в каком месте разница составляет 4?,what is the venue where the margin is 4?,4,"[[6, 0, 4]]",0
 "Какая публика была, когда финалистом был Южный Мельбурн?",what is the crowd when the grand finalist was south melbourne?,5,"[[2, 0, 'South Melbourne']]",0
-Какова дата проведения Гран-при Монако?,What was the date for monaco grand prix?,2,"[[1, 0, 'Monaco Grand Prix']]",0
+Когда состоялся Гран-при Монако?,What was the date for monaco grand prix?,2,"[[1, 0, 'Monaco Grand Prix']]",0
 В какую дату Ален Прост завоевал поул-позицию?,What was the date for the pole position of alain prost?,2,"[[4, 0, 'Alain Prost']]",0
 Кто победитель Гран-при Португалии?,What is the race winer of the portuguese grand prix?,6,"[[1, 0, 'Portuguese Grand Prix']]",0
 какой победитель гонки с датой 12 июня,what's the race winner with date being 12 june,6,"[[2, 0, '12 June']]",0
@@ -881,7 +881,7 @@ question_ru,question_en,sel,conds,agg
 "Кто показал самый быстрый круг в гонке, где Патрик Тамбей оказался на поул-позиции?",Who had the fastest lap in the race where Patrick Tambay was on the pole?,5,"[[4, 0, 'Patrick Tambay']]",0
 В какой гонке Нельсон Пике занял поул-позицию и проходила ли она на Нюрбургринге?,What race had Nelson Piquet on the pole and was in Nürburgring?,1,"[[4, 0, 'Nelson Piquet'], [3, 0, 'Nürburgring']]",0
 На скольких кругах Патрик Тамбей показал самый быстрый круг?,How many rounds did Patrick Tambay record the fastest lap?,0,"[[5, 0, 'Patrick Tambay']]",3
-Какая раса находится в Кьялами?,Which race is located in kyalami?,1,"[[3, 0, 'Kyalami']]",0
+Какая раса находится в кьялами?,Which race is located in kyalami?,1,"[[3, 0, 'Kyalami']]",0
 Какой самый быстрый круг с поул-позицией у Жиля Вильнёва?,What is the fastest lap with pole position of gilles villeneuve?,5,"[[4, 0, 'Gilles Villeneuve']]",0
 Кто показал самый быстрый круг на Гран-при Нидерландов?,Who did the fastest lap in the dutch grand prix?,5,"[[1, 0, 'Dutch Grand Prix']]",0
 Кто проехал самый быстрый круг вместе с победителем гонки Джоном Уотсоном?,Who did the fastest lap with the race winner john watson?,5,"[[6, 0, 'John Watson']]",0
@@ -936,7 +936,7 @@ question_ru,question_en,sel,conds,agg
 Как называлась гонка в Бордо?,What was the name of the race in Bordeaux?,0,"[[1, 0, 'Bordeaux']]",0
 Каков отчет о гонке под названием V Ulster Trophy?,What is the report for the race name V Ulster Trophy?,5,"[[0, 0, 'V Ulster Trophy']]",0
 Какой конструктор у трассы в Сильверстоуне?,What is the constructor for the Silverstone circuit?,4,"[[1, 0, 'Silverstone']]",0
-Каковы результаты гонки на трассе в Сильверстоуне?,What's the report for the Silverstone circuit?,5,"[[1, 0, 'Silverstone']]",0
+Каковы результаты гонки в Сильверстоуне?,What's the report for the Silverstone circuit?,5,"[[1, 0, 'Silverstone']]",0
 Каков отчет о названии гонки: XIII Grand Prix de l'Albigeois?,"What's the report for the race name, XIII Grand Prix de l'Albigeois?",5,"[[0, 0, ""XIII Grand Prix de l'Albigeois""]]",0
 В какой день состоялась гонка XII Гран-при По?,Which date did the race name XII Pau Grand Prix take place on?,2,"[[0, 0, 'XII Pau Grand Prix']]",0
 Кто стал победителем гонки в Гудвуде?,Who was the winning driver for the goodwood circuit?,3,"[[1, 0, 'Goodwood']]",0
@@ -948,7 +948,7 @@ question_ru,question_en,sel,conds,agg
 "Какова первоначальная дата выхода в эфир, когда количество зрителей в США составило 12,81 миллиона?",What is the original air date when there were 12.81 million u.s viewers?,5,"[[4, 0, '12.81']]",0
 Когда к сериалу присоединилась Шелия Лоуренс?,When did Shelia Lawrence join the series?,0,"[[2, 0, 'Shelia Lawrence']]",2
 "Кто был режиссером, когда в США было 13,66 миллионов зрителей?",Who was the director when there were 13.66 million u.s viewers?,3,"[[4, 0, '13.66']]",0
-"Назовите процент, где выигранная сумма составила 25",Name the percentage where the amount won was 25,6,"[[2, 0, 25]]",0
+"Назовите процент, где сумма выигрыша составила 25",Name the percentage where the amount won was 25,6,"[[2, 0, 25]]",0
 "Сколько игр было выиграно при 2-й позиции, и всего было 62 игры?",How many games were won with 2nd oha was standing and there were 62 games?,2,"[[9, 0, '2nd OHA'], [1, 0, 62]]",0
 "Что такое Liscumb, когда Готье 34?",What is the Liscumb when Gauthier is 34?,10,"[[5, 0, '34']]",0
 "Что такое Белло, когда Бен-Тахиру 296?",What is the Bello when Ben-Tahir is 296?,1,"[[2, 0, '296']]",0
